@@ -11,3 +11,10 @@ MAKE CHANGES AND PUSH
 # git add <file>
 # git commit -m "Note here"
 # git push
+
+
+TO CONTRIBUTE
+# fork
+# clone
+# make changes and push
+# submit pull request (via github website)
