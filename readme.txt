@@ -1,7 +1,9 @@
-
-
 TO CLONE A PROJECT
 # git clone <url>
+
+
+TO CLONE A BRANCH
+# git clone <url> -b <branch-name>
 
 
 MAKE CHANGES AND PUSH
