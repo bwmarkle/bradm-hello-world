@@ -1,4 +1,7 @@
-Hello world. I just made changes to readme.txt and trying to figure out how to push them up to github.
+
+
+TO CLONE A PROJECT
+# git clone <url>
 
 
 MAKE CHANGES AND PUSH
